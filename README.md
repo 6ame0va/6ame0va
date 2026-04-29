@@ -65,7 +65,7 @@ Security isn’t about tools. It’s about understanding systems well enough to 
 #### `Let’s Connect`
 ---
 <p align="left">
-  <a href="https://www.linkedin.com/in/jay4you" target="_blank">
+  <a href="https://www.linkedin.com/in/6ame0va" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
   &nbsp;&nbsp;
