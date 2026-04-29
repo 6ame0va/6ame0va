@@ -1,4 +1,4 @@
-## Hi, I'm Ugochukwu Eke (@ugo_byte)
+## Hi, I'm Ugochukwu Eke (@6ame0va)
 
 **Security Researcher | Reverse Engineer | Penetration Tester**
 I break complex systems across web, mobile, APIs, and native code to understand how they fail, how they can be exploited, and how to secure them properly.
