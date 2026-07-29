@@ -37,7 +37,7 @@ I break complex systems across web, mobile, APIs, and native code to understand 
 
 #### ```Tools & Technologies```
 ---
-<p>
+<span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
@@ -54,7 +54,7 @@ I break complex systems across web, mobile, APIs, and native code to understand 
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" width="40" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" width="40" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/owasp.svg" width="40" />
-</p>
+</span>
 
 
 #### `Research Philosophy`
